@@ -149,6 +149,19 @@
       }
     },
     {
+      "cell_type": "markdown",
+      "source": [
+        "**Build the dataset from the obtained price trends and news article titles**"
+      ],
+      "metadata": {
+        "nteract": {
+          "transient": {
+            "deleting": false
+          }
+        }
+      }
+    },
+    {
       "cell_type": "code",
       "source": [
         "import pandas as pd\n",
